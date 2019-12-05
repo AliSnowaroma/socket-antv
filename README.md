@@ -1,10 +1,10 @@
 ## 基于socket.io， redux封装的数据实时推送
 
 ## 目录结构
- >redux/socket               socket相关
- redux/socket/baseSocket    socket的基础类
- redux/socket/redux-socket  socket将数据导入redux
- redux/socket/socket        socket创建类
+- redux/socket               socket相关
+- redux/socket/baseSocket    socket的基础类
+- redux/socket/redux-socket  socket将数据导入redux
+- redux/socket/socket        socket创建类
 
 ## 启动
 ```js
